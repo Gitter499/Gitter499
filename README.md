@@ -5,7 +5,7 @@
 
 [Here's a compilation of resources you can use to help Armenians recovering from war](https://helparmenians.carrd.co/)
 
-Here are some ideas to get you started:
+## About me
 
 - 🔭 I’m currently working on Odyssey, a lox based interpreted language written in Rust.
 - 🌱 I’m currently learning static site generators and langauge creation
