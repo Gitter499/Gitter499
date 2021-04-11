@@ -7,7 +7,7 @@
 
 ## About me
 
-- 🔭 I’m currently working on Odyssey, a lox based interpreted language written in Rust.
+- 🔭 I’m currently working on learning Rust 🦀
 - 🌱 I’m currently learning static site generators and langauge creation
 - 👯 I’m looking to collaborate on anything!
 - 🤔 I’m looking for help with organzation
