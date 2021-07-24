@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gitter499" alt="gitter499" /></a> </p>
 
-- 🔭 I’m currently working on [Secret 🤫](:))
+- 🔭 I’m currently working on [Secret 🤫](:)
 
-- 🌱 I’m currently learning **Rust, C++, Authentication**
+- 🌱 I’m currently learning **Many things**
 
 - 👯 I’m looking to collaborate on **Anything**
 
-- 🤝 I’m looking for help with **Rust**
+- 🤝 I’m looking for help with **Staying motivated**
 
 - 👨‍💻 All of my projects are available at [Rafayel.codes](Rafayel.codes)
 
